@@ -116,7 +116,7 @@
 # 5. 산출물\_documentation
 
 - [화면 명세서](https://github.com/spharos-Ssamal/starbucks_clone_webview/wiki/%ED%99%94%EB%A9%B4%EB%AA%85%EC%84%B8%EC%84%9C)
-- [기능 및 API 명세서](https://github.com/spharos-Ssamal/starbucks_clone_webview/wiki/%EA%B8%B0%EB%8A%A5-%EB%B0%8F-API-%EB%AA%85%EC%84%B8%EC%84%9C)  
+- [API 명세서](https://github.com/spharos-Ssamal/starbucks_clone_webview/wiki/API-%EB%AA%85%EC%84%B8%EC%84%9C)
 
 - ERD Diagram  
     ![image](https://user-images.githubusercontent.com/36991763/230519803-1a3bbb2c-acb1-4a78-bfb1-cfcd190d664b.png)
