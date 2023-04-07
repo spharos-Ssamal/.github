@@ -1,6 +1,11 @@
 
 # _스타벅스 앱 온라인쇼핑몰 클론코딩_ Team Ssamal
 
+- API Server
+  - https://github.com/spharos-Ssamal/starbucks_clone_api
+- Web View
+  - https://github.com/spharos-Ssamal/starbucks_clone_webview
+
 ## Team SSamal (싸우지말조...) 👋
 
 ### _'23 Spharos Academy 1st Clone Coding_
