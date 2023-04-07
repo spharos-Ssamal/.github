@@ -31,19 +31,6 @@
   <br />
   <br />
 
-# 목차 - Contents
-
-1. [개요\_preview](#개요_preview)
-1. [팀원\_member_profiles](#팀원_member_profiles)
-1. [셋업사항\_setup](#3-셋업사항_setup)
-1. [시연\_demo](#4-시연_demo)
-1. [산출물\_documentation](#5-산출물_documentation)
-1. [License](#6-license)
-1. [Contacts](#contacts)
-   <br />
-   <br />
-   <br />
-
 # 팀원\_member_profiles
 
 | <img src="https://github.com/swj9707.png/" width="80">         | BE & FE & DevOps - Team Leader |
@@ -108,47 +95,8 @@
 - **deploy with**:
   - [<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/>](https://vercel.com/)
 
-<br />
-<br />
-<br />
 
-<!-- > ((작성 가이드, 주석임둥.))
-> 여러분의 애플리케이션이 무엇을 하는지,
-> 왜 그 기술을 사용했는지,
-> 여러분이 당면했던 문제나 나중에 추가하고 싶은 기능이 무엇인지
-
-
-> ~~동기가 무엇이었나요?~~
-> ~~왜 이 프로젝트를 기획했나요?~~
-> 이 프로젝트는 어떤 문제를 해결하나요?
-> 이 프로젝트를 통해 무엇을 배우셨나요?
-> 이 프로젝트의 특징은 무엇인가요?
-> 만약 프로젝트의 특징이 너무 많다면, '특징' 섹션을 추가해서 이곳에 나열하세요.
-
-> 만약 팀이나 조직 단위로 작업한 프로젝트라면 팀원들을 같이 기재하세요. 팀원들의 깃허브 프로필과 SNS 링크도 연결해야 합니다.
-사용자가 프로젝트를 설치하는 데 도움을 줄 수 있는 튜토리얼이나 자료를 참고했다면 그런 링크도 같이 첨부해야 합니다.    -->
-
-# 3. 셋업사항\_setup
-
-### for Front-End Work
-
-- 다운로드 혹은 [git clone]하기
-- [next.js 실행하기]
-
-```sh
-yarn install
-or
-npm install
-```
-
-### for Back-End Work
-
-- 셋업 문서 
-  - https://github.com/spharos-Ssamal/starbucks_clone_api/wiki/%EB%A1%9C%EC%BB%AC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%85%8B%EC%97%85-%EB%B0%A9%EB%B2%95
-<br />
-<br />
-
-# 4. 시연\_demo 
+# 시연\_demo 
 ## 검색  
 ![KakaoTalk_20230407_121233138](https://user-images.githubusercontent.com/36991763/230533659-c811fdad-f1ad-4c48-b93e-0a53ef7a4a33.gif)
 
@@ -164,15 +112,14 @@ npm install
 ## 구매 내역 조회  
 ![주문 내역 조회](https://user-images.githubusercontent.com/36991763/230533399-9b1d3278-b984-49f1-9926-6f061853bff5.gif)
 
-<br />
-<br />
 
 # 5. 산출물\_documentation
 
 - [화면 명세서](https://github.com/spharos-Ssamal/starbucks_clone_webview/wiki/%ED%99%94%EB%A9%B4%EB%AA%85%EC%84%B8%EC%84%9C)
-- [기능 및 API 명세서](https://github.com/spharos-Ssamal/starbucks_clone_webview/wiki/%EA%B8%B0%EB%8A%A5-%EB%B0%8F-API-%EB%AA%85%EC%84%B8%EC%84%9C)
-- [ERD Cloud] 
-  - ![image](https://user-images.githubusercontent.com/36991763/230519803-1a3bbb2c-acb1-4a78-bfb1-cfcd190d664b.png)
+- [기능 및 API 명세서](https://github.com/spharos-Ssamal/starbucks_clone_webview/wiki/%EA%B8%B0%EB%8A%A5-%EB%B0%8F-API-%EB%AA%85%EC%84%B8%EC%84%9C)  
+
+- ERD Diagram  
+    ![image](https://user-images.githubusercontent.com/36991763/230519803-1a3bbb2c-acb1-4a78-bfb1-cfcd190d664b.png)
 
 
 <br />
